@@ -24,7 +24,7 @@ class TwoLayerNet(object):
     def __init__(self, input_size, hidden_size, output_size, std=1e-4):
         """
         Initialize the model. Weights are initialized to small random values and
-        biases are initialized to zero. Weights and biases are stored in the
+        biases are initialized to zero. Weights and biases are stored in thes
         variable self.params, which is a dictionary with the following keys:
 
         W1: First layer weights; has shape (D, H)
